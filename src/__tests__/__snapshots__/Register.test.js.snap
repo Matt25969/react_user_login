@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Login comp 1`] = `[Function]`;
+
+exports[`renders Register comp 1`] = `[Function]`;
